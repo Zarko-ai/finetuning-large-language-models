@@ -49,6 +49,9 @@ In this course, you will learn the **key steps for fine-tuning a Large Language 
    - Strategies for improving accuracy and performance.  
    - Overview of modern approaches (LoRA, adapters, quantization, etc.).  
 
+
+<img width="1166" height="800" alt="image" src="https://github.com/user-attachments/assets/1073c92a-4b54-43d6-9099-bd4b793de075" />
+
 ---
 
 ## Important Notes
